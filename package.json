@@ -1,0 +1,14 @@
+{
+  "name": "floryderbot5.0",
+  "version": "0.1.0",
+  "description": "NBA analytics & learning Discord bot (not betting advice)",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/cli/index.js",
+    "lint": "echo \"Add linter config\""
+  },
+  "author": "floryder07",
+  "license": "MIT",
+  "dependencies": {}
+}
